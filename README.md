@@ -2,9 +2,9 @@
 Un script Python simplu și eficient care transformă imaginile în caractere ASCII. Proiectul folosește biblioteca OpenCV pentru procesarea imaginii și maparea nivelurilor de gri pe o scară de caractere specifice.
 
 **Caracteristici**
-*Conversie automată: Transformă orice imagine (.jpg, .png, etc.) în format text.
-*Redimensionare inteligentă: Ajustează automat dimensiunea imaginii pentru a păstra aspectul corect în terminal sau editor de text (aspect ratio correction).
-*Custom Mapping: Folosește un set de 11 caractere pentru a reprezenta densitatea culorilor, de la spațiu (alb/luminos) la @ (negru/întunecat).
+* Conversie automată: Transformă orice imagine (.jpg, .png, etc.) în format text.
+* Redimensionare inteligentă: Ajustează automat dimensiunea imaginii pentru a păstra aspectul corect în terminal sau editor de text (aspect ratio correction).
+* Custom Mapping: Folosește un set de 11 caractere pentru a reprezenta densitatea culorilor, de la spațiu (alb/luminos) la @ (negru/întunecat).
 
 **Tehnologii folosite**
 Python
